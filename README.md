@@ -20,4 +20,4 @@ This scam originated (as far as we know) from Discord users accounts being hacke
 <img src="https://i.ibb.co/FxykHKc/Screen-Shot-2021-07-22-at-7-09-25-pm.png" alt="Screenshot of the scam DM"/>
 
 
-*This repo has the website files included with it*
+**This repository has the website files included with it**
