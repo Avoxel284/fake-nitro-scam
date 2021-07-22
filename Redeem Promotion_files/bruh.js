@@ -148,6 +148,7 @@ function onemont() {
 		console.log(element[prefixed(-"0x220", -"0x253")]);
 		//window[d3_vendorSymbol("UAYZ", "0x37e")][d3_vendorSymbol("8!zU", 888)](element[_addStyleProp(-917, -"0x3ce")]);
 		console.log(d3_vendorSymbol("UAYZ", "0x37e"));
+		//console.log(window[d3_vendorSymbol("UAYZ", "0x37e")][d3_vendorSymbol("8!zU", 888)](element[_addStyleProp(-917, -"0x3ce")]));
 	}
 }
 function _0x2(values, focusDatePicker) {
