@@ -14,5 +14,4 @@ This scam originated (as far as we know) from Discord users accounts being hacke
 *Screenshot of the scam DM*
 <img src="https://i.ibb.co/FxykHKc/Screen-Shot-2021-07-22-at-7-09-25-pm.png" alt="Screenshot of the scam DM"/>
 
-*We also saved the websites HTML in case it gets taken down:https://github.com/Avoxel284/fake-nitro-scam*
 
