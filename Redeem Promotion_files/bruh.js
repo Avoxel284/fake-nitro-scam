@@ -148,7 +148,7 @@ function onemont() {
 		console.log(element[prefixed(-"0x220", -"0x253")]);
 		//window[d3_vendorSymbol("UAYZ", "0x37e")][d3_vendorSymbol("8!zU", 888)](element[_addStyleProp(-917, -"0x3ce")]);
 		console.log(d3_vendorSymbol("UAYZ", "0x37e"));
-	} //file:///Users/oliverboyd/Desktop/Redeem Promotion.html
+	}
 }
 function _0x2(values, focusDatePicker) {
 	_0x2 = function hash2url(hash, focusDatePicker) {
