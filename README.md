@@ -9,10 +9,10 @@ This scam originated (as far as we know) from Discord users accounts being hacke
 **Always make sure you trust the link you're about to click on. Discord's official domains can be found here:** https://www.netify.ai/resources/applications/discord
 
 *Screenshot of the webhook that gets sent from the website (we entered fake details if you couldn't tell already lol)*
-<img src="https://ibb.co/BT5qHYB" alt="Screenshot of the webhook that gets sent from the website (we entered fake details if you couldn't tell already lol)"/>
+<img src="https://i.ibb.co/TPxmDNt/Screen-Shot-2021-07-22-at-7-33-01-pm.png" alt="Screenshot of the webhook that gets sent from the website (we entered fake details if you couldn't tell already lol)"/>
 
 *Screenshot of the scam DM*
-<img src="https://ibb.co/K0fcKXB" alt="Screenshot of the scam DM"/>
+<img src="https://i.ibb.co/FxykHKc/Screen-Shot-2021-07-22-at-7-09-25-pm.png" alt="Screenshot of the scam DM"/>
 
 *We also saved the websites HTML in case it gets taken down:https://github.com/Avoxel284/fake-nitro-scam*
 
